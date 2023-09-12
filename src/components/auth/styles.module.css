@@ -1,0 +1,21 @@
+.pymd {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.formbox {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginAuthenticationbuttons {
+    display: flex;
+    flex-direction: column !important;
+    gap: 20px;
+}
